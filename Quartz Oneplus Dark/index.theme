@@ -1,4 +1,4 @@
-[Desktop Entry]
+[Desktop ]
 Type=X-GNOME-Metatheme
 Name=Quartz Oneplus Dark
 Comment=GTK Theme
@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Quartz Oneplus Dark
 MetacityTheme=Quartz Oneplus Dark
-IconTheme=Luna-Dark Oneplus
+IconTheme=Luna-Dark
 CursorTheme=Luna
 CursorSize=24
