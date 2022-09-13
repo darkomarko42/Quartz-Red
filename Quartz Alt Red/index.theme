@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Quartz Alt Oneplus
+Name=Quartz Alt Red
 Comment=GTK Theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Quartz Alt Oneplus
-MetacityTheme=Quartz Alt Oneplus
+GtkTheme=Quartz Alt Red
+MetacityTheme=Quartz Alt Red
 IconTheme=Marwaita
 CursorTheme=Marwaita
 CursorSize=24
