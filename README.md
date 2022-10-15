@@ -1,2 +1,2 @@
-# Quartz Red
+# Quartz
 Flat GTK Theme For Cinnamon Desktop
